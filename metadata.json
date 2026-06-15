@@ -1,0 +1,59 @@
+{
+  "siteId": "neighbor-relations-guide",
+  "generatedAt": "2026-06-05T13:39:48.099228",
+  "categories": [
+    "beginner-neighbor-relations-guide",
+    "advanced-neighbor-relations-guide",
+    "tips-neighbor-relations-guide",
+    "history-neighbor-relations-guide",
+    "trending-neighbor-relations-guide",
+    "tutorials-neighbor-relations-guide"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-neighbor-relations-guide",
+      "category_name": "Beginner Neighbor Relations Guide"
+    },
+    {
+      "category_slug": "advanced-neighbor-relations-guide",
+      "category_name": "Advanced Neighbor Relations Guide"
+    },
+    {
+      "category_slug": "tips-neighbor-relations-guide",
+      "category_name": "Neighbor Relations Guide Tips"
+    },
+    {
+      "category_slug": "history-neighbor-relations-guide",
+      "category_name": "Neighbor Relations Guide History"
+    },
+    {
+      "category_slug": "trending-neighbor-relations-guide",
+      "category_name": "Trending Neighbor Relations Guide"
+    },
+    {
+      "category_slug": "tutorials-neighbor-relations-guide",
+      "category_name": "Neighbor Relations Guide Tutorials"
+    }
+  ],
+  "articleCount": 108,
+  "design": {
+    "site_id": "neighbor-relations-guide",
+    "color_scheme": {
+      "name": "Warm Orange",
+      "primary": "#c2410c",
+      "secondary": "#f97316",
+      "accent": "#fdba74",
+      "background": "#fff7ed",
+      "text": "#7c2d12",
+      "light": "#ffedd5"
+    },
+    "font": {
+      "family": "Inter, system-ui, -apple-system, sans-serif",
+      "heading": "Inter",
+      "body": "Inter"
+    },
+    "layout": "sidebar",
+    "site_title": "Neighbor Relations Guide Central",
+    "articles_per_row": 3
+  }
+}
